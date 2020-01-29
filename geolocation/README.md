@@ -91,3 +91,57 @@ sfdx force:org:open -u GeoTestOrg
 ```
 
 Test the Org
+
+## Usefull commands
+
+Create a project:
+
+```sh
+sfdx force:project:create -n MutualFundExplorer
+```
+
+Create a Scratch Orgs:
+
+```sh
+sfdx force:org:create -f config/project-scratch-def.json -a TempUnmanaged
+```
+
+Generate a password for the Scratch Org:
+
+```sh
+sfdx force:user:password:generate -u TempUnmanaged
+```
+
+Open the Scratch Org:
+
+```sh
+sfdx force:org:open -u TempUnmanaged
+```
+
+Look at the details of the Scratch Org:
+
+```sh
+sfdx force:org:display -u TempUnmanaged
+```
+
+### Deploying to the non-DX org
+
+We need to conver to the metadata formata to create the package we need to publish. First we convert it:
+
+```sh
+sfdx force:source:convert -d mdapi_output_dir -n "Account Locator"
+```
+
+Now we deploy it:
+
+```sh
+sfdx force:mdapi:deploy --deploydir mdapi_output_dir -u egsmartin@gmail.com -w 3
+```
+
+### Logs
+
+Stream the logs on the local console:
+
+```sh
+sfdx force:apex:log:tail --color
+```
