@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <name>AuraDefinitionBundle</name>
+    <members>DynamicComponent</members>
+    <members>DynamicFormTestApp</members>
+    <members>LeadCreateComponent</members>
+    <members>LeadCreateFlowExample</members>
+    <members>LeadPath</members>
+    <members>LighntingListView</members>
+    <members>LightningCarousel</members>
+    <members>LightningFormatCmpDemo</members>
+    <members>Toaster</members>
+    <members>ToasterApp</members>
+    <members>TreeGridDemo</members>
+    <members>displayDetails</members>
+  </types>
+  <types>
+    <name>FlexiPage</name>
+    <members>Lead_Record_Page</members>
+  </types>
+  <types>
+    <name>CustomObject</name>
+    <members>Lead</members>
+  </types>
+  <types>
+    <name>StandardValueSet</name>
+    <members>LeadStatus</members>
+  </types>
+  <version>42.0</version>
+  <fullName>Capitulo 6</fullName>
+</Package>
