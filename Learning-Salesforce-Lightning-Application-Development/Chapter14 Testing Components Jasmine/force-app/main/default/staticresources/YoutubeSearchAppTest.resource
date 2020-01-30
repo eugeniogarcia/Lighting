@@ -110,10 +110,12 @@ describe("YoutubeSearchAppTest", function(){
                                 return JSON.stringify(responseObject); 
                             } 
                         };
+
                         spyOn($A, "enqueueAction").and.callFake(function (action) {
                             var cb = action.getCallback("SUCCESS");
                             cb.fn.apply(cb.s, [mockResponse]);
                         });
+                        
                         component.search();
                         expect(component.get("v.data").items.length).toBe(2);
                         done();

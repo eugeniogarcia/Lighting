@@ -154,8 +154,30 @@ With the Scratch Org run:
 sfdx force:lightning:test:install
 ```
 
-We run the tests with:
+This will create in the Scratch Org an aura application, jasminetests, that can be run from the developer console. It uses some test cases that are created also in the Scratch Org as a resource - $Resource. These will not be pulled down to local.
+
+We can run the sample tests included with Jasmine:
 
 ```sh
 sfdx force:lightning:test:run
+```
+
+To create a new test case:
+
+```sh
+sfdx force:lightning:test:create -n YoutubeSearchAppTest -d ./forceapp/main/default/staticresources
+```
+
+The test cases are specified in an App. 
+
+```xml
+<aura:application>
+    <c:lts_jasmineRunner testFiles="{!join(',',$Resource.youtubeSearchAppTest)}" />
+</aura:application>
+```
+
+We can run the test as follows. Supose the App where the tests are placed is called `YoutubeSearchTest`:
+
+```sh
+sfdx force:lightning:test:run -a YoutubeSearchTest -r human -d .
 ```

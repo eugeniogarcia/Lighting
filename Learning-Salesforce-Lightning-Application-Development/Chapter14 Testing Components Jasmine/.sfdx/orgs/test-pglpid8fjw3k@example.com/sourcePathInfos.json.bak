@@ -2,14 +2,14 @@
     [
         "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1580231351787,
             "changeTime": 1580231351787,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1580231351787,
             "changeTime": 1580231351787,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,29 +32,27 @@
     [
         "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1580231351793,
-            "changeTime": 1580231351793,
-            "contentHash": "23dc5dce7c50ee5d687a95170c9787e18f8751d2",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "modifiedTime": 1580406238452,
+            "changeTime": 1580406238452,
+            "contentHash": "0fe4c56344d2044fd0ca8742db06774bed81f7e4"
         }
     ],
     [
         "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\aura",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1580231351788,
             "changeTime": 1580231351788,
             "contentHash": "99b272d296c66e98541001356f7454efc6a9d51c",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -62,14 +60,14 @@
     [
         "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\aura\\youtubesearch",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\aura\\youtubesearch",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1580231351791,
             "changeTime": 1580231351791,
             "contentHash": "0b0a24a5059f7e94599e435caa1984fa2ae4239b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -77,14 +75,14 @@
     [
         "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\aura\\youtubesearch\\youtubesearch.auradoc",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\aura\\youtubesearch\\youtubesearch.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 214,
             "modifiedTime": 1580231351789,
             "changeTime": 1580231351789,
             "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -92,14 +90,14 @@
     [
         "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\aura\\youtubesearch\\youtubesearch.cmp",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\aura\\youtubesearch\\youtubesearch.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 2222,
             "modifiedTime": 1580231351789,
             "changeTime": 1580231351789,
             "contentHash": "6e903fe421e6915e4ad924d75657bd7efa228853",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -107,14 +105,14 @@
     [
         "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\aura\\youtubesearch\\youtubesearch.cmp-meta.xml",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\aura\\youtubesearch\\youtubesearch.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 250,
             "modifiedTime": 1580231351789,
             "changeTime": 1580231351789,
             "contentHash": "a04e5f40471cd3c9ba14bca4d561882441e5fd08",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -122,14 +120,14 @@
     [
         "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\aura\\youtubesearch\\youtubesearch.css",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\aura\\youtubesearch\\youtubesearch.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 12,
             "modifiedTime": 1580231351789,
             "changeTime": 1580231351789,
             "contentHash": "62fce833b8cbf54a137353694e5e7fb5183a3aa5",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -137,14 +135,14 @@
     [
         "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\aura\\youtubesearch\\youtubesearch.design",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\aura\\youtubesearch\\youtubesearch.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 42,
             "modifiedTime": 1580231351790,
             "changeTime": 1580231351790,
             "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -152,14 +150,14 @@
     [
         "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\aura\\youtubesearch\\youtubesearch.svg",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\aura\\youtubesearch\\youtubesearch.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 667,
             "modifiedTime": 1580231351790,
             "changeTime": 1580231351790,
             "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -167,14 +165,14 @@
     [
         "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\aura\\youtubesearch\\youtubesearchController.js",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\aura\\youtubesearch\\youtubesearchController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 118,
             "modifiedTime": 1580231351790,
             "changeTime": 1580231351790,
             "contentHash": "18051eb3f4f022c2525e00ea32813618c1477f7e",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -182,14 +180,14 @@
     [
         "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\aura\\youtubesearch\\youtubesearchHelper.js",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\aura\\youtubesearch\\youtubesearchHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1514,
             "modifiedTime": 1580231351791,
             "changeTime": 1580231351791,
             "contentHash": "5ae20f69f4020e799c61d81a5ff8a9a3be884b44",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -197,14 +195,14 @@
     [
         "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\aura\\youtubesearch\\youtubesearchRenderer.js",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\aura\\youtubesearch\\youtubesearchRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 55,
             "modifiedTime": 1580231351791,
             "changeTime": 1580231351791,
             "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -212,14 +210,14 @@
     [
         "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\aura\\youtubeSearchApp",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\aura\\youtubeSearchApp",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1580231351788,
             "changeTime": 1580231351788,
             "contentHash": "a873ac70005f9ad562a638201aecfe30df51c9e8",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -227,14 +225,14 @@
     [
         "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\aura\\youtubeSearchApp\\youtubeSearchApp.app",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\aura\\youtubeSearchApp\\youtubeSearchApp.app",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 84,
             "modifiedTime": 1580231351788,
             "changeTime": 1580231351788,
             "contentHash": "e1c88a33490a9f5bb823da81be45e69bc4a33084",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -242,14 +240,14 @@
     [
         "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\aura\\youtubeSearchApp\\youtubeSearchApp.app-meta.xml",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\aura\\youtubeSearchApp\\youtubeSearchApp.app-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 233,
             "modifiedTime": 1580231351788,
             "changeTime": 1580231351788,
             "contentHash": "78d8681541bc136ce98816dfc3b101cc2e3de47d",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -257,14 +255,14 @@
     [
         "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\classes",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1580231351792,
             "changeTime": 1580231351792,
             "contentHash": "88175822898a8d3e8e0d0b24f066b35f639e3772",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -272,14 +270,14 @@
     [
         "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\classes\\YoutubeDataParser.cls",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\classes\\YoutubeDataParser.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 2408,
             "modifiedTime": 1580231351791,
             "changeTime": 1580231351791,
             "contentHash": "db62de7c831daa288211fa4af864d43b6c98b252",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -287,14 +285,14 @@
     [
         "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\classes\\YoutubeDataParser.cls-meta.xml",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\classes\\YoutubeDataParser.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 200,
             "modifiedTime": 1580231351792,
             "changeTime": 1580231351792,
             "contentHash": "3fe4e6b682bbc0b089c22398ffefa1d991945d37",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -302,14 +300,14 @@
     [
         "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\classes\\Youtubesearch.cls",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\classes\\Youtubesearch.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1002,
             "modifiedTime": 1580231351792,
             "changeTime": 1580231351792,
             "contentHash": "9f7c3fb4192bed320bb19a2ddaeb0d359bae617d",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -317,14 +315,14 @@
     [
         "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\classes\\Youtubesearch.cls-meta.xml",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\classes\\Youtubesearch.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 179,
             "modifiedTime": 1580231351792,
             "changeTime": 1580231351792,
             "contentHash": "f6f319f126dfc21d5abbffe6c65211457fdfa270",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -332,14 +330,14 @@
     [
         "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\remoteSiteSettings",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\remoteSiteSettings",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1580231351793,
             "changeTime": 1580231351793,
             "contentHash": "582106a4866dbe1503b01fa6f2cf326dedc2bfb5",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -347,14 +345,14 @@
     [
         "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\remoteSiteSettings\\Youtube.remoteSite-meta.xml",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\remoteSiteSettings\\Youtube.remoteSite-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 267,
             "modifiedTime": 1580231351793,
             "changeTime": 1580231351793,
             "contentHash": "902523495d8b90ef3bd00ba2af73a9948550f18b",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -362,14 +360,14 @@
     [
         "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\staticresources",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\staticresources",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1580231351794,
             "changeTime": 1580231351794,
             "contentHash": "452a94de2637016432aee4137304fac706978e94",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -377,14 +375,14 @@
     [
         "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\staticresources\\YoutubeSearchAppTest.resource",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\staticresources\\YoutubeSearchAppTest.resource",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 5224,
             "modifiedTime": 1580231351793,
             "changeTime": 1580231351793,
             "contentHash": "f9c5ecf5d61b7547f947e585b02d0d82b3eccbb3",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -392,14 +390,14 @@
     [
         "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\staticresources\\YoutubeSearchAppTest.resource-meta.xml",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\staticresources\\YoutubeSearchAppTest.resource-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 247,
             "modifiedTime": 1580231351794,
             "changeTime": 1580231351794,
             "contentHash": "81d644625a8c49bd84798ffaea8bde515db80694",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -407,16 +405,29 @@
     [
         "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1580398098792,
             "changeTime": 1580398674278,
             "contentHash": "1e8b29350acba5e16f1cb7c59162a93e24b53e5b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Eugenio\\Downloads\\geolocation\\Learning-Salesforce-Lightning-Application-Development\\Chapter14 Testing Components Jasmine\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1580406238458,
+            "changeTime": 1580406238458,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c"
         }
     ]
 ]
