@@ -11,20 +11,10 @@
   <types>
     <name>ApexClass</name>
     <members>AccountSearchController</members>
-    <members>prueba</members>
-  </types>
-  <types>
-    <name>CustomField</name>
-    <members>Account.pruebas__c</members>
-  </types>
-  <types>
-    <name>CustomObject</name>
-    <members>prueba__c</members>
   </types>
   <types>
     <name>PermissionSet</name>
     <members>Geolocation</members>
-    <members>prueba</members>
   </types>
   <types>
     <name>CustomTab</name>
