@@ -17,15 +17,25 @@
   </types>
   <types>
     <name>FlexiPage</name>
+    <members>Capitulo6_UtilityBar</members>
     <members>Lead_Record_Page</members>
+    <members>Mi_Pagina_Leads</members>
   </types>
   <types>
     <name>CustomObject</name>
     <members>Lead</members>
   </types>
   <types>
+    <name>ListView</name>
+    <members>Lead.Leads_Abiertas</members>
+  </types>
+  <types>
     <name>StandardValueSet</name>
     <members>LeadStatus</members>
+  </types>
+  <types>
+    <name>CustomTab</name>
+    <members>Mi_Pagina_Leads</members>
   </types>
   <version>42.0</version>
   <fullName>Capitulo 6</fullName>

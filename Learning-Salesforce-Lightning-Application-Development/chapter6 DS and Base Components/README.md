@@ -30,7 +30,13 @@ Look at the details of the Scratch Org:
 sfdx force:org:display -u cap6
 ```
 
-### Deploying to the non-DX org
+## Fetching metadata from non-DX
+
+```sh
+sfdx force:source:retrieve --metadata AppMenu:AppSwitcher
+```
+
+## Deploying to the non-DX org
 
 We need to conver to the metadata formata to create the package we need to publish. First we convert it:
 
@@ -44,7 +50,7 @@ Now we deploy it:
 sfdx force:mdapi:deploy --deploydir mdapi_output_dir -u egsmartin@gmail.com -w 3
 ```
 
-### Logs
+## Logs
 
 Stream the logs on the local console:
 

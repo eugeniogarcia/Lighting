@@ -114,6 +114,14 @@ Look at the details of the Scratch Org:
 sfdx force:org:display -u TempUnmanaged
 ```
 
+### Fetching metadata from non-DX
+
+```sh
+sfdx force:source:retrieve --metadata CustomObject:Language_Course_Instructor__c,CustomField:Language_Course__c.Course_Instructor__c
+
+sfdx force:source:retrieve --metadata AppMenu:AppSwitcher
+```
+
 ### Deploying to the non-DX org
 
 We need to conver to the metadata formata to create the package we need to publish. First we convert it:
@@ -138,14 +146,16 @@ sfdx force:apex:log:tail --color
 
 ## Jasmine
 
-To test the Aura componentes we can use Jasmine. We install it:
+To test the Aura componentes we can use Jasmine. 
+
+With the Scratch Org run:
 
 ```sh
-sfdx force:Lightning:test:install
+sfdx force:lightning:test:install
 ```
 
 We run the tests with:
 
 ```sh
-sfdx force:Lightning:test:run
+sfdx force:lightning:test:run
 ```
